@@ -3,6 +3,7 @@ using namespace std;
 void solve ()
 {
   string s = "";
+  // taking input 
   cout << "Before = " << s.length() << endl;
   for (char c = 'a'; c <= 'g';c++)
   {

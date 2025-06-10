@@ -28,7 +28,7 @@ const ld PI = acos(-1.0);
 #define fast_io ios::sync_with_stdio(false); cin.tie(NULL);
 void solve() {
     // Your code here
-    vector<int> v{1, 3, 4, 5};
+    vector<int> v{1, 3, 4, 5};// declare vector
     next_permutation(v.begin(), v.end());
     for (auto  x:v)
     {

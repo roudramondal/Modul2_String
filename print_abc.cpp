@@ -4,7 +4,7 @@ void solve ()
 {
   string s = "";
   cout << "Before = " << s.length() << endl;
-  for (char c = 'a'; c <= 'g';c++)
+  for (char c = 'a'; c <= 'g';c++) // loop run 
   {
     s+=c;
   }

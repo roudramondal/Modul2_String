@@ -26,7 +26,7 @@ const ld PI = acos(-1.0);
 #define fast_io ios::sync_with_stdio(false); cin.tie(NULL);
 void solve() {
     // Your code here
-    string s1;
+    string s1; // declare value 
     c >> s1;
     string sub;
     c >> sub;
